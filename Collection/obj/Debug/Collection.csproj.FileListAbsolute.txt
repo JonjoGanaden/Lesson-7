@@ -1,0 +1,8 @@
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\bin\Debug\Collection.exe.config
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\bin\Debug\Collection.exe
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\bin\Debug\Collection.pdb
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\obj\Debug\Collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\obj\Debug\Collection.exe
+C:\Users\jonjo\Desktop\AWS\Lesson 7\Collection\obj\Debug\Collection.pdb
